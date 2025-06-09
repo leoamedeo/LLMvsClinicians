@@ -39,6 +39,11 @@ Place your dataset files in accessible paths on your system.
 
 Each script will iterate through subfolders, extract relevant text snippets, query the specified LLM zero‑shot, parse the "Symptom: Yes/No" bullet points, and save results to an Excel file.
 
+## License
+
+This project is released under the MIT License. See LICENSE for details.
+
+
 ## Contact
 For questions or data/code requests, please contact:
 
