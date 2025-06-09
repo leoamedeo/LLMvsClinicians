@@ -1,0 +1,52 @@
+# === Python artifacts ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# === IDE / editor ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Project-specific outputs ===
+# context extracts per folder
+**/context.txt
+
+# Excel outputs
+*.xlsx
+*.xls
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# API keys or credentials files
+*.key
+*.pem
+
+# Optional: lockfiles or dependency metadata
+Pipfile.lock
+poetry.lock
