@@ -1,5 +1,4 @@
 ﻿# LLMvsClinicians
-**Note: This documentation is currently under construction.**
 
 ## Overview
 This repository contains scripts and resources supporting the study: Large Language Models and Human Auditors in Extracting Clinical Information from Unstructured Medical Records: a Comparative Study by Aldo Spolaore et al. 
